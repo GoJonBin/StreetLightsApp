@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Street Lights App</string>
+    <string name="some_text">Activity Log</string>
+    <string name="some_hint">Enter Date to filter&#8230;</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
